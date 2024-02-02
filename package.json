@@ -1,0 +1,16 @@
+{
+  "name": "hiteshbackend",
+  "version": "1.0.0",
+  "description": "it is first class",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Nandini Divity",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
